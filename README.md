@@ -1,3 +1,3 @@
-# AnishKumarSinha.github.io
+# SinhaAnishKumar.github.io
 
-See live demo on [AnishKumarSinha.github.io](https://AnishKumarSinha.github.io/)
+See live demo on [SinhaAnishKumar.github.io](https://SinhaAnishKumar.github.io/)
