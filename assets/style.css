@@ -171,7 +171,7 @@
  }
  
  .logo{
-      position: fixed;
+      position: absolute;
       padding-top: 4px;
  }
 
@@ -487,6 +487,10 @@
       width: 90%;
  }
 
+ .skills_sql{
+      width: 85%;
+ }
+
  .skills_cpp{
       width: 80%;
  }
@@ -497,7 +501,7 @@
 
  .skills_vbnet{
       width: 65%;
- }
+}
 
  .skills_close .skills_list{
       height: 0;
@@ -990,7 +994,7 @@
      }
 
      .section{
-          padding: 6rem 0 2rem;
+          padding: 4rem 0 2rem;
      }
 
      .section_subtitle{
@@ -1032,13 +1036,7 @@
          margin: 0;
     }
 
-    .home_container{
-         row-gap: 5rem;
-    }
-
     .home_content{
-         padding-top: 7rem;
-         padding-bottom: 7rem;
          column-gap: 2rem;
     }
 
@@ -1054,10 +1052,6 @@
 
     .home_scroll-button{
          margin-left: 3rem;
-    }
-
-    .about_container{
-         column-gap: 5rem;
     }
 
     .about_description{
