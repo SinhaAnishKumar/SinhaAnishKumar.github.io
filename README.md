@@ -26,7 +26,7 @@ You can see this project live [here](https://SinhaAnishKumar.github.io/)
 <br>
 Yes, you can fork this repo.😊
 
-You can find my other project **[here](https://github.com/SinhaAnishKumar?tab=repositories)**.💻
+You can find my other projects **[here](https://github.com/SinhaAnishKumar?tab=repositories)**.💻
 <br/>
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/SinhaAnishKumar) 
