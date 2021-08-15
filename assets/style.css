@@ -86,7 +86,7 @@
  }
 
  .uil-sun{
-      transition: .4s;
+      transition: .5s;
       transform: rotate(-180deg);
 }
  /*==================== BASE ====================*/
