@@ -84,7 +84,11 @@
  .change-theme:hover{
       color: var(--first-color);
  }
- 
+
+ .uil-sun{
+      transition: .4s;
+      transform: rotate(-180deg);
+}
  /*==================== BASE ====================*/
  *{
       box-sizing: border-box;
