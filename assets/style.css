@@ -37,7 +37,7 @@
      --font-medium: 500;
      --font-semi-bold: 600;
  
-     /*========== Margenes Bottom ==========*/
+     /*========== Margins Bottom ==========*/
      /* .25rem = 4px, .5rem = 8px, .75rem = 12px ... */
      --mb-0-25: .25rem;
      --mb-0-5: .5rem;
@@ -472,11 +472,15 @@
  }
 
  .skills_xd{
-      width: 85%;
+      width: 95%;
+ }
+
+.skills_illustrator{
+      width: 90%;
  }
 
  .skills_framer{
-      width: 95%;
+      width: 85%;
  }
 
  .skills_photoshop{
@@ -484,7 +488,11 @@
  }
 
  .skills_sh3d{
-      width: 95%;
+      width: 80%;
+ }
+
+.skills_blender{
+      width: 50%;
  }
 
  .skills_c{
@@ -493,6 +501,10 @@
 
  .skills_sql{
       width: 85%;
+ }
+
+.skills_python{
+      width: 70%;
  }
 
  .skills_cpp{
