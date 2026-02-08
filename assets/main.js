@@ -73,8 +73,6 @@ const modalViews = document.querySelectorAll('.work_modal'),
 modalBtns = document.querySelectorAll('.work_button'),
 modalCloses = document.querySelectorAll('.work_modal-close')
 
-const modalBtns = document.querySelectorAll('.work_modal-button')
-
 let modal = function(modalClick){
     modalViews[modalClick].classList.add('active-modal')
 }
