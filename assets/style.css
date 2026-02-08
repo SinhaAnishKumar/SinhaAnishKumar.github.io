@@ -654,6 +654,15 @@ img {
      font-size: var(--small-font-size);
 }
 
+.work_modal_button {
+     cursor: pointer;
+     font-size: var(--small-font-size);
+}
+
+.work_modal_button:hover .button_icon {
+     transform: translateX(.25rem);
+}
+
 .work_button:hover .button_icon {
      transform: translateX(.25rem);
 }
